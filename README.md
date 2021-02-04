@@ -1,2 +1,5 @@
 # Bioinformatics-GANs
-Project
+ToDo:
+Generators
+
+
