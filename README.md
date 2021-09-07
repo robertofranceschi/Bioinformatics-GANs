@@ -1,5 +1,3 @@
-# Bioinformatics-GANs
-ToDo:
-Generators
+# Bioinformatics - Subtype GAN
 
 
