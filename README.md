@@ -1,4 +1,4 @@
-# Subtype-GAN 🧬
+# Subtype GAN 🧬
 
 ![example](/images/subtypeGAN_architecture.jpg)
 <p align = "center">
