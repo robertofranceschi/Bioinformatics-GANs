@@ -1,4 +1,4 @@
-# Lung Cancer Subtyping using Generative Adversarial Networks 🧬
+# Lung Cancer Subtyping using GANs 🧬
 
 This repository contains the code for our project on: 
 - lung cancer subtyping using GANs (Subtype-GAN [1]) - implemented in PyTorch.
