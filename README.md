@@ -1,7 +1,7 @@
 # Lung Cancer Subtyping using Generative Adversarial Networks 🧬
 
 This repository contains the code for our project on: 
-- lung cancer subtyping using GANs (Subtype-GAN) 
+- lung cancer subtyping using GANs (Subtype-GAN [1]) - implemented in PyTorch.
 - and unsupervised learning of image segmentation based on differentiable feature clustering. 
 
 Our objective is to classify lung cancer subtypes based on multi-omics data, and the resulting subtype classifications are used to plan treatment and determine prognosis. We use differentiable ensamble methods during preprocessing and feature clustering to improve the accuracy and efficiency of our GAN model.
